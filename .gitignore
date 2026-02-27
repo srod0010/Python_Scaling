@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 .venv/
+GIT_PROJECT_RUNBOOK.md
